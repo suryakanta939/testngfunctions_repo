@@ -1,0 +1,10 @@
+<suite name="test parallel">
+<test name="all">
+ <classes>
+ <class name="com.package1.Apple1"/>
+ <methods>
+ <include name=".*app.*"/>
+ </methods>
+ </classes>
+</test>
+</suite>

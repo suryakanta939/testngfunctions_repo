@@ -1,0 +1,9 @@
+<suite name="preserve">
+<test name="preserve test" preserve-order="false">
+<classes>
+<class name="com.package3.Cupcake3"/>
+<class name="com.package3.Cupcake1"/>
+<class name="com.package3.Cupcake2"/>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,8 @@
+<suite name="parameter">
+<test name="parameter test">
+<parameter name="browser" value="firefox"/>
+<classes>
+<class name="com.package1.Apple1"/>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,7 @@
+<suite name="test parallel">
+<test name="check">
+ <packages>
+<package name=".*"/>
+ </packages>
+</test>
+</suite>

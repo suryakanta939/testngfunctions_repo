@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="parameter" duration-ms="69" started-at="2017-07-26T06:48:15Z" finished-at="2017-07-26T06:48:16Z">
+    <groups>
+    </groups>
+    <test name="parameter test" duration-ms="69" started-at="2017-07-26T06:48:15Z" finished-at="2017-07-26T06:48:16Z">
+      <class name="com.package1.Apple1">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.package1.Apple1@73035e27]" name="beforeClass" is-config="true" duration-ms="21" started-at="2017-07-26T12:18:16Z" finished-at="2017-07-26T12:18:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="app1_1()[pri:0, instance:com.package1.Apple1@73035e27]" name="app1_1" duration-ms="11" started-at="2017-07-26T12:18:16Z" finished-at="2017-07-26T12:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app1_1 -->
+        <test-method status="PASS" signature="app1_2()[pri:0, instance:com.package1.Apple1@73035e27]" name="app1_2" duration-ms="2" started-at="2017-07-26T12:18:16Z" finished-at="2017-07-26T12:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app1_2 -->
+        <test-method status="PASS" signature="app1_3()[pri:0, instance:com.package1.Apple1@73035e27]" name="app1_3" duration-ms="4" started-at="2017-07-26T12:18:16Z" finished-at="2017-07-26T12:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app1_3 -->
+        <test-method status="PASS" signature="surya()[pri:0, instance:com.package1.Apple1@73035e27]" name="surya" duration-ms="1" started-at="2017-07-26T12:18:16Z" finished-at="2017-07-26T12:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- surya -->
+      </class> <!-- com.package1.Apple1 -->
+    </test> <!-- parameter test -->
+  </suite> <!-- parameter -->
+</testng-results>

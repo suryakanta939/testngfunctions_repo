@@ -1,0 +1,10 @@
+<suite name="test parallel">
+<test name="check">
+ <packages>
+<package name="com.package1"/>
+ </packages>
+ <classes>
+ <class name="com.package3.Cupcake2"/>
+ </classes>
+</test>
+</suite>

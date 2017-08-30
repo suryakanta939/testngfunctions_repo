@@ -1,0 +1,16 @@
+<suite name="test parallel">
+<test name="all">
+ <classes>
+ <class name="com.package1.Apple1"/>
+ </classes>
+</test>
+<test name="selected">
+ <classes>
+ <class name="com.package1.Apple2"/>
+ <methods>
+ <include name="app2_2"/>
+ <include name="app2_3"/>
+ </methods>
+ </classes>
+</test>
+</suite>
